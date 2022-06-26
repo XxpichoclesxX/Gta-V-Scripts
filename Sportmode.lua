@@ -1,7 +1,7 @@
 -- Sportmode Script
 -- Version: 1.1
 -- Original Author: jayphen#6666
--- Modified by: Hecker#6976
+-- Modified by: XxpichoclesxX#0427
 
 
 PED = {
